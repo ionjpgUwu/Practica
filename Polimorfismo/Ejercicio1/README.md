@@ -11,11 +11,7 @@ Sea la clase Videojuego:
 
 ## Archivo
 
-<<<<<<< HEAD
-- [Videojuego.java](./Videojuego.java)
-=======
 - [Videojuegos.java](./Videojuegos.java)
->>>>>>> 3a7d457972cc9579822f90dece6a1f13f24b35ab
 
 ## Diagrama
 
@@ -24,7 +20,5 @@ Sea la clase Videojuego:
 ## Ejecución
 
 <<<<<<< HEAD
+
 - ![Ejecución](./img.png)
-=======
-- ![Ejecución](./img.png)
->>>>>>> 3a7d457972cc9579822f90dece6a1f13f24b35ab
