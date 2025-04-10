@@ -11,7 +11,7 @@ Para el comportamiento de los atributos de un Auto se tiene en cuenta la siguien
 
 ## Archivo
 
-- [Auto.java](./Auto.py)
+- [Auto.py](./Auto.py)
 
 ## Diagrama
 
