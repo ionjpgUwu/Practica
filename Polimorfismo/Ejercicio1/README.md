@@ -19,6 +19,4 @@ Sea la clase Videojuego:
 
 ## Ejecución
 
-<<<<<<< HEAD
-
 - ![Ejecución](./img.png)
