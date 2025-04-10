@@ -9,8 +9,14 @@ Sea la clase Videojuego:
    c) Implementar un método `mostrar()`  
    d) Sobrecargar el método `agregarJugadores()` donde en el primero se agregue solo 1 jugador y en otro se ingrese una cantidad de jugadores a aumentar.
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./Videojuegos.java)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [Videojuegos.java](./Videojuegos.java)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)
