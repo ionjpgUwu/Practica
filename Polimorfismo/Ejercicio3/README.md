@@ -11,6 +11,7 @@ Un restaurante organiza a su personal mediante las siguientes clases:
 ## Archivo
 
 - [restaurante.java](./restaurante.java)
+- [Restaurante.py](./Restaurante.py)
 
 ## Diagrama
 
@@ -18,4 +19,10 @@ Un restaurante organiza a su personal mediante las siguientes clases:
 
 ## Ejecución
 
-- ![Ejecución](./img.png)
+### java
+
+- ![Ejecución](./img1.png)
+
+### python
+
+- ![Ejecución](./img2.png)
