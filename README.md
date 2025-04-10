@@ -1,3 +1,0 @@
-# Practica
-# Practica
-# Practica

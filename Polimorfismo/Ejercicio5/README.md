@@ -1,15 +1,21 @@
-# Ejercicio 05 - Animales (Polimorfismo)
+# Ejercicio 05 - Universidad (Polimorfismo)
 
 ## Enunciado
 
-Se hace referencia a algunos animales mediante las siguientes clases:
+Se hace referencia a algunos de los diferentes ambientes de la Universidad mediante las siguientes clases:
 
-5. a) Instanciar 1 Perro, 1 Gato y 1 Pájaro.  
-   b) Sobrecargar el método `hacerSonido()` para que cada animal emita su sonido característico.  
-   c) Implementar un método `moverse()` que indique cómo se mueve cada animal (correr, saltar, volar, etc.).
+5. a) Instanciar 2 objetos Oficina,2 Aulas y 1 Laboratorio
+b) Crear un método mostrar() para mostrar los datos de cada objeto
+c) Sobrecargar el método cantidadMuebles(), para conocer el número total de muebles dentro de cada ambiente
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./Universidad.java)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [Universidad.java](./Universidad.java)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)

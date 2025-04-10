@@ -9,8 +9,14 @@ Para los bloques del juego Minecraft se usará los siguientes objetos:
    c) Sobrecarga `colocar()` para permitir colocar un bloque en diferentes orientaciones (por ejemplo, en el suelo o en la pared).  
    d) Sobrescribe `romper()` en `BloqueCofre`, `BloqueTnt` y `BloqueHorno`, mostrando distintos mensajes según el tipo de bloque y lo que sucede al romperlos.
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./Minecraft.java)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [Minecraft.java](./Minecraft.py)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)

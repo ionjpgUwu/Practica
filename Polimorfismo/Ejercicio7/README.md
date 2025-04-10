@@ -8,8 +8,14 @@ Se hace referencia a algunos animales mediante las siguientes clases:
    b) Sobrecargar el método `hacerSonido()` para que cada animal emita su sonido característico.  
    c) Implementar un método `moverse()` que indique cómo se mueve cada animal (correr, saltar, volar, etc.).
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./Animal.java)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [Animal.java](./Animal.py)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)

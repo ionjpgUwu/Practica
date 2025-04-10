@@ -8,8 +8,14 @@ Sean las siguientes clases que hacen referencia a diferentes tipos de figura:
    b) Implementar un método `mostrar()` en cada clase para imprimir sus dimensiones y área.  
    c) Sobrecargar el método `Área` para mostrar el área de todas las figuras.
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./Figura.java)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [Figuras.java](./Figuras.java)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)

@@ -8,8 +8,14 @@ Para la reserva de habitaciones se guía por las siguientes clases:
    b) Implementa el método `calcularCosto(int noches)`, sobrescribiéndolo en `HabitacionSimple`, `HabitacionDoble` y `Suite`, aplicando distintos costos por noche.  
    c) Sobrecarga el método `reservar()` permitiendo reservar con diferentes parámetros (por número de noches o incluyendo el número de personas).
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./Habitacion.java)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [Habitacion.java](./Habitacion.py)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)

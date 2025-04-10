@@ -8,8 +8,14 @@ Un restaurante organiza a su personal mediante las siguientes clases:
    b) Sobrecargar el método `SueldoTotal()` para mostrar el sueldo total, sumándole las horas extra, considerando el sueldo por hora y la propina en caso de los meseros.  
    c) Sobrecargar el método para mostrar a aquellos Empleados que tengan `SueldoMes` igual a X.
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./restaurante.java)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [restaurante.java](./restaurante.java)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)

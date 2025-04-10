@@ -9,8 +9,14 @@ Para el comportamiento de los atributos de un Auto se tiene en cuenta la siguien
    c) Sobrecargar el operador `++` para tener un nuevo auto.  
    d) Sobrecargar el operador `--` para mostrar los atributos de los dos objetos.
 
-## Archivos
+## Archivo
 
-- [Archivo fuente](./Auto.py)
-- [Diagrama](./image.png)
-- [Ejecución](./img.png)
+- [Auto.java](./Auto.py)
+
+## Diagrama
+
+- ![Diagrama](./image.png)
+
+## Ejecución
+
+- ![Ejecución](./img.png)
