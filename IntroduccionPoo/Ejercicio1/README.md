@@ -12,6 +12,7 @@
 ## Archivo
 
 - [Persona.java](./Persona.java)
+- [Persona.py](./Persona.py)
 
 ## Diagrama
 
@@ -19,4 +20,10 @@
 
 ## Ejecución
 
-- ![Ejecución](./img.png)
+### java
+
+- ![Ejecución](./img1.png)
+
+### python
+
+- ![Ejecución](./img2.png)
