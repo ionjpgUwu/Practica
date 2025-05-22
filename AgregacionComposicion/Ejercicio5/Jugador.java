@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 // a) Implementa las clases con sus constructores, getters y setters.
 
 class Jugador {
@@ -76,8 +78,7 @@ class Delantero extends Jugador {
     }
 }
 
-import java.util.ArrayList;
-import java.util.List;
+
 
 class Equipo {
     private String nombre;

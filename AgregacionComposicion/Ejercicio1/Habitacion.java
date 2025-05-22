@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 // a) Implementa las clases con sus constructores, getters y setters.
 class Habitacion {
     private String nombre;
@@ -29,8 +32,6 @@ class Habitacion {
     }
 }
 
-import java.util.ArrayList;
-import java.util.List;
 
 class Casa {
     private String direccion;
@@ -65,7 +66,7 @@ class Casa {
     }
 }
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
         // b) Crea una casa y agrega varias habitaciones.
         Casa miCasa = new Casa("Av. Siempre Viva 742");

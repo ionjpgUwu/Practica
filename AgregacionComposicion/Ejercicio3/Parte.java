@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 // a) Implementa las clases con sus constructores, getters y setters.
 class Parte {
     private String nombre;
@@ -29,8 +31,7 @@ class Parte {
     }
 }
 
-import java.util.ArrayList;
-import java.util.List;
+
 
 class Avion {
     private String modelo;
