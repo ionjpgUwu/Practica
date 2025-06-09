@@ -1,4 +1,4 @@
-# Practica-1 y 2-INF-121
+# Practica-1, 2 y 3 -INF-121
 
 ## JHONATAN PLATA CRUZ
 
